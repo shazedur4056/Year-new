@@ -1,0 +1,68 @@
+.header{
+    height: 600px;    
+    
+    background-image: url(Banner\ Image.png);
+    
+    font-size: 20px;
+    
+    }
+    
+    h3{
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+    
+    
+    }
+    
+    h1{
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+        height: 255.233em;
+        font-weight: 900;
+    
+    
+    }
+    
+    .our-holiday-deals-are-better{
+        color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    line-height: normal
+     
+    }
+    
+    .all-categories{
+        color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    line-height: normal;
+    }
+    
+    .welcome{
+        background-image: url(Vectorrr.png);
+        width: 1320em;
+       height: 600em;
+       flex-shrink: 0;
+        background-repeat: no-repeat;
+    }
+    
+    .welcome-to-midnight-party{
+        font-size: 30px ;
+        color: #fff;
+        font-variant: normal;
+    }
+    
+    .dolor-sit-amet-consectetur{
+    color: #fff;
+    text-align: ;
+    }
+    
+    .join-now{
+        color: #fff;
+        
+    }
+    
